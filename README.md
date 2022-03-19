@@ -7,6 +7,10 @@
 
 <p align="left"> <a href="https://twitter.com/uurokan" target="blank"><img src="https://img.shields.io/twitter/follow/uurokan?logo=twitter&style=for-the-badge" alt="uurokan" /></a> </p>
 
+- I’m currently working on [RentACarProject](https://github.com/ugurcivgin34/RentACarProject)
+
+- I’m currently learning **Angular**
+
 - 📫 How to reach me **u.civgin@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
